@@ -1,4 +1,4 @@
-## Hi there 👋
+# 스마트 온도 조절기
 
 <!--
 **kangminsuk18/kangminsuk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
